@@ -1,0 +1,15 @@
+.main-footer {
+    color: white;
+    /* background-color: #87abcd; */
+    background-color: #73a4ed;
+    
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+
+  a,h1,h6,h3,p{
+    color: black;
+    text-decoration: none;
+    align-items: baseline;
+  }
